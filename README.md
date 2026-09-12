@@ -56,27 +56,32 @@ através da tecnologia.
 
 ## GitHub Stats
 
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=detzjao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>`{=html}
+<div align="center">
 
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detzjao&layout=compact&langs_count=8&theme=tokyonight"/>`{=html}
-:::
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=detzjao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detzjao&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 ------------------------------------------------------------------------
 
 ## Tecnologias utilizadas
 
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=javascript,java,nodejs,html,css,react,vite,postgres,supabase,git,github,vercel,linux&theme=dark" />`{=html}
-:::
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,java,nodejs,html,css,react,vite,postgres,supabase,git,github,vercel,linux&theme=dark" />
+
+</div>
 
 ------------------------------------------------------------------------
 
 ## Atividade no GitHub
 
-::: {align="center"}
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=detzjao&theme=tokyonight" />`{=html}
-:::
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=detzjao&theme=tokyonight" />
+
+</div>
 
 ------------------------------------------------------------------------
 
