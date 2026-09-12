@@ -87,47 +87,145 @@ através da tecnologia.
 
 ## Projetos
 
-### RPG Arachne
-
-Projeto de uma mesa virtual online para Marvel Multiverse RPG,
-desenvolvido para facilitar o gerenciamento de campanhas e permitir que
-Mestre e jogadores interajam através de uma aplicação web.
-
-Principais recursos:
-
--   Gerenciamento de campanhas
--   Fichas de personagens
--   Sistema de autenticação
--   Diferentes níveis de acesso
--   Gerenciamento de sessões
--   Cenários e elementos de campanha
--   Backend integrado a banco de dados
--   API para comunicação entre frontend e backend
-
-Projeto: https://github.com/detzjao/RPG-ARACHNE
-
-------------------------------------------------------------------------
-
 ### HQ Reader
 
-Aplicação web para gerenciamento e leitura de histórias em quadrinhos
-através de uma biblioteca digital unificada.
+Aplicação web para gerenciamento e leitura de histórias em quadrinhos através de uma biblioteca unificada.
 
-Principais funcionalidades:
+O projeto integra diferentes fontes de conteúdo, como Google Drive e Telegram, permitindo centralizar, organizar e acessar uma coleção de HQs através de uma única interface.
 
--   Biblioteca digital de quadrinhos
--   Sistema de autenticação
--   Usuários e administradores
--   Controle de permissões
--   Favoritos
--   Progresso de leitura
--   Leitor integrado
--   Integração com Google Drive API
--   Integração com Telegram através de Worker Python
--   Sincronização automática de arquivos
--   Painel administrativo
+**Principais recursos:**
 
-------------------------------------------------------------------------
+- Biblioteca digital de histórias em quadrinhos
+- Sistema de autenticação com Supabase
+- Controle de usuários e permissões
+- Favoritos e progresso de leitura
+- Leitor integrado de HQs
+- Integração com Google Drive API
+- Integração com Telegram através de Worker Python
+- Painel administrativo
+- Sincronização automática de arquivos
+- API própria para comunicação entre serviços
+
+**Tecnologias:**
+
+`JavaScript` `Vite` `Node.js` `Supabase` `PostgreSQL` `REST API` `Python` `Google Drive API`
+
+🔗 [Ver projeto no GitHub](https://github.com/detzjao/Hq-Reader)
+
+
+---
+
+### RPG Arachne
+
+Mesa virtual online desenvolvida para gerenciamento de campanhas do Marvel Multiverse RPG.
+
+A aplicação permite que mestres e jogadores interajam através de uma plataforma web com gerenciamento de personagens, campanhas e sessões.
+
+**Principais recursos:**
+
+- Gerenciamento de campanhas
+- Cadastro de personagens
+- Fichas digitais
+- Sistema de autenticação
+- Controle de permissões
+- Gerenciamento de sessões
+- Comunicação entre frontend e backend
+- Integração com banco de dados
+
+**Tecnologias:**
+
+`JavaScript` `Node.js` `Supabase` `PostgreSQL` `REST API`
+
+🔗 [Ver projeto no GitHub](https://github.com/detzjao/RPG-ARACHNE)
+
+
+---
+
+### HelpDesk FullStack
+
+Sistema de gerenciamento de chamados desenvolvido seguindo uma arquitetura FullStack.
+
+A aplicação simula uma plataforma SaaS para abertura, acompanhamento e gerenciamento de tickets de suporte.
+
+**Principais recursos:**
+
+- Sistema de autenticação utilizando JWT
+- CRUD completo de chamados
+- Filtros por status
+- Dashboard administrativo
+- Gerenciamento de tickets
+- Separação entre frontend e backend
+
+**Tecnologias:**
+
+`Node.js` `Express` `React` `Vite` `Tailwind CSS` `SQLite`
+
+🔗 [Ver projeto no GitHub](https://github.com/detzjao/HelpDesk)
+
+
+---
+
+### Projeto To-Do App
+
+Aplicação web para gerenciamento de tarefas desenvolvida para praticar conceitos fundamentais de desenvolvimento frontend.
+
+O projeto permite organizar atividades através de uma interface simples e funcional.
+
+**Principais recursos:**
+
+- Criação de tarefas
+- Listagem de atividades
+- Edição de tarefas
+- Remoção de registros
+- Controle de conclusão
+
+**Tecnologias:**
+
+`HTML5` `CSS3` `JavaScript`
+
+🔗 [Ver projeto no GitHub](https://github.com/detzjao/Projeto-To-Do-App)
+
+
+---
+
+### Gestão Hospitalar - Estrutura de Dados
+
+Projeto acadêmico desenvolvido para aplicação prática de conceitos de estruturas de dados.
+
+O sistema realiza uma simulação de gerenciamento hospitalar utilizando estruturas como filas dinâmicas.
+
+**Principais conceitos aplicados:**
+
+- Estrutura de filas
+- Manipulação de dados
+- Organização de registros
+- Simulação de atendimento hospitalar
+
+**Tecnologias:**
+
+`C++` `Estruturas de Dados`
+
+🔗 [Ver projeto no GitHub](https://github.com/detzjao/Gestao-Hospitalar-Listas-de-Listas)
+
+
+---
+
+### Filas de Processadores
+
+Projeto acadêmico desenvolvido para estudo e implementação de estruturas de filas aplicadas ao gerenciamento de processos.
+
+**Principais conceitos aplicados:**
+
+- Filas de processamento
+- Manipulação de estruturas em C++
+- Organização de tarefas
+- Implementação de TADs
+
+**Tecnologias:**
+
+`C++` `Estruturas de Dados`
+
+🔗 [Ver projeto no GitHub](https://github.com/detzjao/-Filas-de-Processadores)
 
 ## Formação e aprendizado
 
