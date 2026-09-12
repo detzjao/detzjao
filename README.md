@@ -158,9 +158,9 @@ inovação e desenvolvimento de soluções eficientes.
 
 ## Contato
 
-Email: SEU_EMAIL_AQUI
+Email: gui_dezotti@hotmail.com
 
-LinkedIn: SEU_LINKEDIN_AQUI
+LinkedIn:https://www.linkedin.com/in/detz-jao/
 
 GitHub: https://github.com/detzjao
 
