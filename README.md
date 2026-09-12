@@ -1,6 +1,6 @@
 # João Guilherme Dezotti
 
-## Desenvolvedor de Software \| Tecnologia da Informação \| Soluções Web
+## Desenvolvedor de Software \| Suporte Técnico \| Desenvolvimento Web
 
 Estudante de Tecnologia da Informação com foco em desenvolvimento de
 software, integração de sistemas e infraestrutura.
