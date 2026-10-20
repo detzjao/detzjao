@@ -75,16 +75,6 @@ através da tecnologia.
 
 ------------------------------------------------------------------------
 
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=detzjao&theme=tokyonight" />
-
-</div>
-
-------------------------------------------------------------------------
-
 ## Projetos
 
 ### HQ Reader
